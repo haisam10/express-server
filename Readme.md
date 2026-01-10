@@ -31,7 +31,6 @@ express-server/
 ├── models/            # Data models (students data)
 ├── db.js              # Data / database logic
 ├── index.js           # Express routes & API logic
-├── server.js          # Server configuration & start
 ├── package.json       # Project dependencies & scripts
 ├── package-lock.json  # Dependency lock file
 └── README.md          # Documentation
@@ -200,3 +199,4 @@ GitHub: [https://github.com/haisam10](https://github.com/haisam10)
 ---
 
 ⭐ If you find this project helpful, don’t forget to give it a star!
+
