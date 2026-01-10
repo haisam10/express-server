@@ -65,7 +65,7 @@ npm install
 3️⃣ **Run the server**
 
 ```bash
-node server.js
+node index.js
 ```
 
 4️⃣ **Server will start on:**
@@ -199,4 +199,5 @@ GitHub: [https://github.com/haisam10](https://github.com/haisam10)
 ---
 
 ⭐ If you find this project helpful, don’t forget to give it a star!
+
 
