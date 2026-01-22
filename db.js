@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const connectDB = async () => {
   try {
     await mongoose.connect(
-      "mongodb+srv://admin:admin@cluster0.xhczywn.mongodb.net/studentDB",
+      "mongodb+srv://admin:<db_password>@cluster0.xhczywn.mongodb.net/studentDB",
       {
         serverSelectionTimeoutMS: 5000,
       }
@@ -16,3 +16,4 @@ const connectDB = async () => {
 };
 
 module.exports = connectDB;
+
